@@ -1,2 +1,2 @@
-# C13C
-The scripts are designing for describing the 13C dynamics after pulse labelling in plants in different organs
+# Compartmental 13 Carbon equilibrium approach
+The scripts are designed to describe the 13C dynamics and allocation after pulse labelling in plants in different organs
